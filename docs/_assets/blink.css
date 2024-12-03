@@ -1,8 +1,14 @@
-
+/* sidebar */
 .sidebar {
   padding-top: 0;
 }
 
+.sidebar .app-name-link {
+  display: flex;
+  justify-content: center;
+}
+
+/* search */
 .search {
   margin-bottom: 20px;
   padding: 6px;

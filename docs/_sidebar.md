@@ -1,2 +1,4 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Blink Distribution](/)
+- [Artists](/artists)
+- [Creatives](/creatives)
+- [Labels](/labels)
