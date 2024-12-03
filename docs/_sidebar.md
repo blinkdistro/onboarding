@@ -1,4 +1,5 @@
 - [Blink Distribution](/)
-- [Artists](/artists)
-- [Creatives](/creatives)
-- [Labels](/labels)
+- [Artists](/artists/index)
+- [Creatives](/creatives/index)
+- [Labels](/labels/index)
+- [Distributors](/distributors/index)

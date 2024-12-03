@@ -4,7 +4,7 @@
 
 ### Getting Started
 
-- [Artists](./)
-- [Labels](./)
-- [Creatives](./)
-- [Distributors](./)
+- [Artists](/artists/index)
+- [Labels](/labels/index)
+- [Creatives](/creatives/index)
+- [Distributors](/distributors/index)
