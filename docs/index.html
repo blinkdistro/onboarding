@@ -34,9 +34,14 @@
          + '  style="filter: invert(1);"'
          + '/>',
       homepage: 'index.md',
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        '/(artists|distributors|creatives|labels)/(.*)/_sidebar.md': '/_sidebar.md',
+      },
       themeColor: '#0ea5e9',
       auto2top: true,
       loadSidebar: true,
+      loadNavbar: true,
       maxLevel: 0,
       subMaxLevel: 3,
       search: {
